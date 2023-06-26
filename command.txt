@@ -1,0 +1,6 @@
+# go to path
+PhpWorkspace/programming_php_4ed
+# execute following command to go into docker
+docker exec -ti mysql-db bash
+# login to mysql
+mysql -uuser -p pass
