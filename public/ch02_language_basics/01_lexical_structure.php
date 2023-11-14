@@ -41,7 +41,7 @@ echo "Hello World<br>" // no semicolon required before closing tag
 
 <h2>Whitespace and Line Breaks</h2>
 
-<h2>Comment</h2>
+<h2>Comments</h2>
 
 <h3>Shell-style comments</h3>
 <?php
